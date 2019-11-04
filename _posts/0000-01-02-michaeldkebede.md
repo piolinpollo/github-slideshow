@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+ **አበበ** በሶ በላ። 
+ **ጫላ** ጩቤ ጨበጠ።
+ <እንተስ?>
 Use the left arrow to go back!
